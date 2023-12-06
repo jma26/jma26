@@ -1,6 +1,7 @@
 ## Howdy y'all!
-- 🌱 I’m currently learning Java and Ionic
-- 📝 I'm currently training to run my first half-marathon/marathon 🏃🏃🏃
+- 🌱 Currently learning Java and Ionic
+- 📝 Marathoner on a six star world majors journey 🏃🏃🏃
+- :black_square_button: Boston :black_square_button: Tokyo :black_square_button: New York :black_square_button: Berlin :black_square_button: Chicago :black_square_button: London
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/jesse-ma/)
 - 😃 Pronouns: he/him/his
 
